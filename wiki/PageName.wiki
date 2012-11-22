@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+UI Layout
+
+
+= Details =
+
+You can use this library to build the UI layout:
+http://layout.jquery-dev.net/demos/example.html
