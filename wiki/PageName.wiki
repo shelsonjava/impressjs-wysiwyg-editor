@@ -2,10 +2,9 @@
 
 = Introduction =
 
-UI Layout
+Impress.js Tutorial
 
 
 = Details =
 
-You can use this library to build the UI layout:
-http://layout.jquery-dev.net/demos/example.html
+http://www.1stwebdesigner.com/css/creating-stunning-visualizations-with-impress-js/ 
