@@ -1,0 +1,7 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Requirements,Phase-Design
+
+http://www.youtube.com/watch?v=QuOVvDoou04
+
+
+Official presentation of Slide&Impress at USI, Switzerland, 2012
